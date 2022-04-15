@@ -1,0 +1,17 @@
+h1{
+    font-size: 110px;
+    
+}
+#text1{
+    border-radius: 400px 400px 400px 400px;
+    width: 300px;
+    height: 20px;
+
+}
+.btn{
+    border:solid grey;
+
+}
+a{
+    margin-left: 1000px;
+}
